@@ -37,7 +37,7 @@ Database: MySQL Server.
 
 Image Handling: Pillow (PIL Fork) library.
 
-_**Prerequisites**__
+_**Prerequisites**_
 Before you begin, ensure you have the following installed on your system:
 
 Python 3.x
